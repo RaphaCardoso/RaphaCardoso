@@ -2,6 +2,13 @@
 ## Meu nome é Raphael Cardoso!
 
 
+🔭 Atualmente estou trabalhando em: projetos de desenvolvimento de software.
+🌱 Atualmente estou aprendendo: novas tecnologias e frameworks, como typescript, Nest.js e Angular.
+👯 Estou procurando colaborar em: projetos open-source e iniciativas inovadoras.
+🤔 Estou procurando ajuda com: aprimoramento de habilidades no desenvolvimento backend.
+📫 Como entrar em contato comigo: Email pessoal: Raphaelbcjr@gmail.com | Linkedln: www.linkedin.com/in/raphael-de-barros-cardoso-junior-209057208
+⚡ Curiosidade: tenho diversos hobbies como jogos, música, xadrez, esportes e tecnologia.
+
 ## Estatísticas
 
 <div align="center">
@@ -39,12 +46,6 @@
 
 ###
 
-🔭 Atualmente estou trabalhando em: projetos de desenvolvimento de software.
-🌱 Atualmente estou aprendendo: novas tecnologias e frameworks, como typescript, Nest.js e Angular.
-👯 Estou procurando colaborar em: projetos open-source e iniciativas inovadoras.
-🤔 Estou procurando ajuda com: aprimoramento de habilidades no desenvolvimento backend.
-📫 Como entrar em contato comigo: Email pessoal: Raphaelbcjr@gmail.com | Linkedln: www.linkedin.com/in/raphael-de-barros-cardoso-junior-209057208
-⚡ Curiosidade: tenho diversos hobbies como jogos, música, xadrez, esportes e tecnologia.
 
 ## Ferramentas e Tecnologias
 
