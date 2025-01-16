@@ -9,7 +9,7 @@
 📫 Como entrar em contato comigo: Email pessoal: Raphaelbcjr@gmail.com | Linkedln: www.linkedin.com/in/raphael-de-barros-cardoso-junior-209057208 <br>
 ⚡ Curiosidade: tenho diversos hobbies como jogos, música, xadrez, esportes e tecnologia. <hr>
 
-## Estatísticas
+## Estatísticas: 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaCardoso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -19,7 +19,7 @@
 ###
 
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias: 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,7 +40,7 @@
 </div>
 
 
-## Estou aprendendo
+## Estou aprendendo: 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
