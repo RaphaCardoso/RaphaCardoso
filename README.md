@@ -6,7 +6,7 @@
 🌱 Atualmente estou aprendendo: novas tecnologias como typescript e Flutter. <br>
 👯 Estou procurando colaborar em: projetos open-source e iniciativas inovadoras. <br>
 🤔 Estou procurando ajuda com: aprimoramento de habilidades no desenvolvimento backend. <br>
-📫 Como entrar em contato comigo: Email pessoal: Raphaelbcjr@gmail.com | Linkedln: www.linkedin.com/in/raphael-de-barros-cardoso-junior-209057208 <br>
+📫 Como entrar em contato comigo: Email pessoal: Raphaelbcjr2@gmail.com | Linkedln: www.linkedin.com/in/raphael-de-barros-cardoso-junior-209057208 <br>
 ⚡ Curiosidade: tenho diversos hobbies como jogos, música, xadrez, esportes e tecnologia. <hr>
 
 ## Estatísticas: 
